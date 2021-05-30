@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1622397400632" clover="3.2.0">
-  <project timestamp="1622397400632" name="All files">
+<coverage generated="1622399407084" clover="3.2.0">
+  <project timestamp="1622399407085" name="All files">
     <metrics statements="18" coveredstatements="18" conditionals="0" coveredconditionals="0" methods="11" coveredmethods="11" elements="29" coveredelements="29" complexity="0" loc="18" ncloc="18" packages="1" files="4" classes="4"/>
     <file name="array.js" path="/home/jorge/Documentos/react/platzi-jest/array.js">
       <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
