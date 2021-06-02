@@ -6,13 +6,13 @@ describe('Instantaneas', () => {
         expect(getCharacter(rick)).toMatchSnapshot();
     })
 
-    test('Siempre fallara la instantanea', () => {
-        const user = {
-            createAt: new Date(),
-            id: Math.floor(Math.random() * 20)
-        }
-        expect(user).toMatchSnapshot();
-    })
+    // test('Siempre fallara la instantanea', () => {
+    //     const user = {
+    //         createAt: new Date(),
+    //         id: Math.floor(Math.random() * 20)
+    //     }
+    //     expect(user).toMatchSnapshot();
+    // })
 
     test('Tenemos una excepcion dentro del codigo', () => {
         const user = {
