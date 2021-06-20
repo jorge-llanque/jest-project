@@ -2,4 +2,4 @@
 # Jest project exercises
 # Justify document before update its memo
 # Jest project exercises
-# Justify document before update its memo
+# Justify definitions
